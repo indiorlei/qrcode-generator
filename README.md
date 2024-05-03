@@ -21,4 +21,4 @@ O Gerador de QR Code é uma aplicação web que simplifica o processo de criaç�
 - [node-qrcode](https://github.com/soldair/node-qrcode)
 
 ## Autor
-[Indiorlei]
+[Indiorlei](https://github.com/indiorlei)
