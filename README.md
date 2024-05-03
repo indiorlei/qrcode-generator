@@ -8,9 +8,9 @@ O Gerador de QR Code é uma aplicação web que simplifica o processo de criaç�
 - **Compatibilidade com Diferentes Conteúdos:** Suporte para URLs, texto simples, informações de contato, eventos e muito mais.
 
 ## Como Utilizar
-1. Acesse o site [qrcode-generator](https://qrcode-generator-five-rho.vercel.app/).
+1. Acesse o site [qrcode-generator](https://generate-svg-qrcode.vercel.app/).
 2. Adicione o parâmetro de query "qrcode" à URL, seguido do conteúdo que deseja codificar no QR Code.
-   - Exemplo: `https://qrcode-generator-five-rho.vercel.app/?qrcode=conteudo_a_ser_codificado`.
+   - Exemplo: `https://generate-svg-qrcode.vercel.app/?qrcode=conteudo_a_ser_codificado`.
 3. O código QR será gerado automaticamente e exibido na tela.
 4. Se desejar, faça o download do código QR clicando no botão de download.
 
